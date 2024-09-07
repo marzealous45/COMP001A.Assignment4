@@ -13,11 +13,11 @@ caption {
   }
   
 thead, tfoot {
-    background-color: rgb(228 240 245);
+    background-color: purple;
   }
   th,
   td {
-    border: 1px solid rgb(160 160 160);
+    border: 1px solid black;
     padding: 8px 10px;
   }
   
@@ -26,7 +26,7 @@ thead, tfoot {
   }
   
   tbody > tr:nth-of-type(even) {
-    background-color: rgb(237 238 242);
+    background-color:purple ;
   }
   
   tfoot th {
